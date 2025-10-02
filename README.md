@@ -34,16 +34,13 @@ Chaque exercice est implémenté dans un fichier `.c` distinct situé dans le do
 
 ## 👨‍💻 Attribution des exercices
 
-- **TEDOM TAFOTSI DIMITRI WILFRIED** → Exo 1 : Somme de matrices  
-- **TEDOM TAFOTSI DIMITRI WILFRIED** → Exo 2 : Produit de matrices  
-- **BAKWO NKEN BERNARDIN ULRICH** → Exo 3 : Recherche séquentielle  
-- **POUTH LUCKY GRACIA** → Exo 4 : Multiplication a×b  
-- **BAKWO NKEN BERNARDIN ULRICH** → Exo 5 : Tester si un tableau est trié  
-- **LOTUE THRECIA J. KAMGA** → Exo 6 : Médiane  
-- **LOTUE THRECIA J. KAMGA** → Exo 7 : Inverser un tableau  
-- **SARMBOYE PAULINE FIDÈLE** → Exo 8 : Produit vectoriel  
+- **TEDOM TAFOTSI DIMITRI WILFRIED** → Exo 4 : Insertion en tete et en queue dans une liste simplement chainée triée   
+- **POUTH LUCKY GRACIA** → Exo 2: Insertion d'un element dans une liste simplement chainee triee  
+- **LOTUE THRECIA J. KAMGA** → Exo 1 : Lire un element et supprimer toutes ses occurences dans une liste simplement chainee   
+- **LOTUE THRECIA J. KAMGA** → Exo 3 : Insertion d'un element dans une liste doublement chainée triée
 - **SIGHE NDE JACQUES NEHEMIE** → Exo 5 : Insertion en tête et en queue dans une liste doublement chaîne circulaire  
-
+-BAKWO NKEN BERNADIN PRINCE ULRICH
+-SARMBOYE PAULINE FIDELE
 *(Adapter selon la composition de l’équipe)*
 
 ---
