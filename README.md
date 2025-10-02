@@ -20,26 +20,23 @@ Chaque exercice est implémenté dans un fichier `.c` distinct situé dans le do
 ```
 
 src/
-│── somme\_matrices.c             # Exercice 1
-│── produit\_matrices.c           # Exercice 2
-│── recherche\_seq.c              # Exercice 3
-│── multiplication\_ab.c          # Exercice 4
-│── test\_tri.c                   # Exercice 5
+│── Lire un élément et supprimer toutes ses occurences dans une liste simplement triée           # Exercice 1
+│── Insertion d'un élément dans une liste simplement chainée triée                               # Exercice 2
+│── Insertion d'un élément dans une liste doublement chainée triée                               # Exercice 3
+│── insertion en tete et en queue dans une liste simplement chainée triée                        # Exercice 4
+│──  insertion en tete et en queue dans une liste doublement chainée triée                       # Exercice 5
 
 ````
 
 ## 👨‍💻 Attribution des exercices
 
-- **TEDOM TAFOTSI DIMITRI WILFRIED** → Exo 1 : Somme de matrices  
-- **TEDOM TAFOTSI DIMITRI WILFRIED** → Exo 2 : Produit de matrices  
-- **BAKWO NKEN BERNARDIN ULRICH** → Exo 3 : Recherche séquentielle  
-- **POUTH LUCKY GRACIA** → Exo 4 : Multiplication a×b  
-- **BAKWO NKEN BERNARDIN ULRICH** → Exo 5 : Tester si un tableau est trié  
-- **LOTUE THRECIA J. KAMGA** → Exo 6 : Médiane  
-- **LOTUE THRECIA J. KAMGA** → Exo 7 : Inverser un tableau  
-- **SARMBOYE PAULINE FIDÈLE** → Exo 8 : Produit vectoriel  
+- **TEDOM TAFOTSI DIMITRI WILFRIED** → Exo 4 : Insertion en tete et en queue dans une liste simplement chainée triée   
+- **POUTH LUCKY GRACIA** → Exo 2: Insertion d'un element dans une liste simplement chainee triee  
+- **LOTUE THRECIA J. KAMGA** → Exo 1 : Lire un element et supprimer toutes ses occurences dans une liste simplement chainee   
+- **LOTUE THRECIA J. KAMGA** → Exo 3 : Insertion d'un element dans une liste doublement chainée triée
 - **SIGHE NDE JACQUES NEHEMIE** → Exo 5 : Insertion en tête et en queue dans une liste doublement chaîne circulaire  
-
+-BAKWO NKEN BERNADIN PRINCE ULRICH
+-SARMBOYE PAULINE FIDELE
 *(Adapter selon la composition de l’équipe)*
 
 ---
